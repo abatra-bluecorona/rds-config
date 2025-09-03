@@ -4,7 +4,7 @@
  * Description: Polaris RDS configuration plugin easily manage spec file settings, download both default and latest spec files, and upload various spec files including feature, style, nav, tracking, and image alt. Enhance your site's functionality and maintain seamless updates effortlessly.
  * Author: Bluecorona
  * Author URI: https://www.bluecorona.com/
- * Version: 2.0.7
+ * Version: 2.0.8
  * Text Domain: csv
  * Domain Path: /languages
  */
