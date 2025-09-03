@@ -24,7 +24,7 @@ if (defined('RDS_CONFIGURATION_REPO') && defined('GIT_BRANCH') && defined('GIT_A
 $myUpdateChecker = PucFactory::buildUpdateChecker(
 	RDS_CONFIGURATION_REPO,
 	__FILE__,
-	'rds-configuration-plugin'
+	'rds-config-main'
 );
 
 $myUpdateChecker->setBranch(GIT_BRANCH);
